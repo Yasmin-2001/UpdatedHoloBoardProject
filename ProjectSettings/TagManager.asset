@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Debug
+  - DebugLog
+  - Anchor
+  - SpatialAnchors
+  - NetworkManager
+  - PlayerEyes
+  - ConnectionStatus
+  - Bullet
+  - User2
+  - User3
+  - User4
+  - User5
+  - PlayersManager
+  - CRP
+  - LetterBoard
+  - ToolsBar
+  - AnchorObject
+  - CRPWindow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Spatial Awareness
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
